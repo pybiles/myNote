@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"type":"text","text":"思维导图构建模板","id":"5a244969df2f04b5","x":-2399,"y":541,"width":225,"height":50},
+		{"type":"text","text":"Golang","id":"295323a93c5988b7","x":-2090,"y":714,"width":250,"height":60},
+		{"type":"text","text":"Python","id":"7f36d07baf9b26a5","x":-2737,"y":770,"width":250,"height":60},
+		{"type":"text","text":"Cpp","id":"df9982cabc7511ab","x":-2369,"y":824,"width":250,"height":60},
+		{"type":"file","file":"dailyNote/2023-04-12.md","id":"fc257021d817de3e","x":-440,"y":-540,"width":400,"height":400},
+		{"type":"file","file":"dailyNote/2023-04-15.md","id":"100a58d8822f645c","x":-1520,"y":-460,"width":400,"height":400},
+		{"type":"file","file":"dailyNote/2023-04-11.md","id":"39a920f345b73737","x":-949,"y":-260,"width":400,"height":400},
+		{"type":"file","file":"dailyNote/2023-04-13.md","id":"3626886b45efbbc8","x":-440,"y":40,"width":400,"height":400},
+		{"type":"file","file":"dailyNote/2023-04-14.md","id":"65cb64cf86be58f3","x":-1024,"y":340,"width":400,"height":400},
+		{"type":"file","file":"dailyNote/2023-04-10.md","id":"d48ac850fb7493d8","x":-2887,"y":191,"width":400,"height":400},
+		{"type":"file","file":"dailyNote/2023-04-16.md","id":"609316f756b74c18","x":-2040,"y":191,"width":400,"height":400},
+		{"type":"text","text":"JAVA","id":"82b8bb7912752428","x":-2340,"y":310,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"2613a5de536ad71b","fromNode":"39a920f345b73737","fromSide":"right","toNode":"3626886b45efbbc8","toSide":"left","toEnd":"none"},
+		{"id":"c1960840a1043d3a","fromNode":"39a920f345b73737","fromSide":"left","toNode":"100a58d8822f645c","toSide":"right","toEnd":"none"},
+		{"id":"aadb62dd5eb85b13","fromNode":"39a920f345b73737","fromSide":"bottom","toNode":"65cb64cf86be58f3","toSide":"top","toEnd":"none"},
+		{"id":"a12b3fcbaf2f057e","fromNode":"5a244969df2f04b5","fromSide":"right","toNode":"609316f756b74c18","toSide":"left","color":"1"},
+		{"id":"c63beb746d829f92","fromNode":"5a244969df2f04b5","fromSide":"left","toNode":"d48ac850fb7493d8","toSide":"right","color":"1"},
+		{"id":"34f090d918270864","fromNode":"5a244969df2f04b5","fromSide":"top","toNode":"82b8bb7912752428","toSide":"bottom","color":"4"},
+		{"id":"436b74cd42cc5819","fromNode":"5a244969df2f04b5","fromSide":"bottom","toNode":"df9982cabc7511ab","toSide":"top","color":"4"},
+		{"id":"baef924c1c0e1475","fromNode":"5a244969df2f04b5","fromSide":"bottom","toNode":"7f36d07baf9b26a5","toSide":"top","color":"4"},
+		{"id":"6b97ca29dc1f094a","fromNode":"5a244969df2f04b5","fromSide":"bottom","toNode":"295323a93c5988b7","toSide":"top","color":"4"},
+		{"id":"45ca86c40c11a127","fromNode":"39a920f345b73737","fromSide":"right","toNode":"fc257021d817de3e","toSide":"left","toEnd":"none"}
+	]
+}
